@@ -1,0 +1,25 @@
+crewai
+# Optional tools enabling ReAct-style actions
+crewai-tools
+# Allow newer LangChain to satisfy langchain-aws
+langchain
+langchain-community
+langchain-huggingface
+langgraph
+pydantic
+pdfplumber
+pypdf
+# OCR is optional and system-dependent; install separately if needed
+# ocrmypdf
+python-dotenv
+langchain-aws
+PyYAML
+# OCR via Poppler + Tesseract
+pdf2image
+pytesseract
+Pillow
+openai-whisper
+litellm
+streamlit
+reportlab
+whisper

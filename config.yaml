@@ -1,0 +1,14 @@
+aws:
+  region: 
+  access_key_id: 
+  secret_access_key: 
+  # session_token: OPTIONAL_SESSION_TOKEN
+
+llm:
+  provider: bedrock
+  model: us.anthropic.claude-3-5-sonnet-20241022-v2:0
+  # inference_profile_id: OPTIONAL_PROFILE_ID
+
+generation:
+  temperature: 0
+
