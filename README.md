@@ -1,2 +1,0 @@
-# AIMedicalScribe
-Medical Scribe
